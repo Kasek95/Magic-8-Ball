@@ -10,7 +10,9 @@ const answers = [
     "Musisz jeszcze trochę poćwiczyć",
     "Jesteś dobry w tym co robisz",
     "Tak",
-    "Nie"
+    "Nie",
+    "Ciężko odpowiedzieć ma to pytanie",
+    "Nie chcesz znać odpowiedzi na to pytanie...... :/"
 ]
 
 const shakeBall = () => {
